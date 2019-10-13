@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HomeWorkLogin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HomeWorkLogin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DenisLogin1-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HomeWorkLogin:war exploded" />
+    </root>
+  </artifact>
+</component>
